@@ -1,8 +1,11 @@
 # <center> README </center>
 
+## News
+Our paper [“Token-Budget-Aware LLM Reasoning”.](https://arxiv.org/pdf/2412.18547) has been accepted to ACL 2025 (Findings)!
+
 ## 🚀1. Overview
 
-This is the script of our paper, [“Token-Budget-Aware LLM Reasoning”.](https://arxiv.org/pdf/2412.18547)
+This is the script of our paper, [“Token-Budget-Aware LLM Reasoning”.](ACL 2025 Findings, https://arxiv.org/pdf/2412.18547)
 
 Reasoning is crucial for LLMs to perform complex tasks, but methods like Chain-of-Thought (CoT) reasoning often lead to significant token overhead and increased costs. We identify substantial token redundancy in the reasoning process of state-of-the-art LLMs and propose a token-budget-aware reasoning framework. This approach dynamically allocates token budgets based on problem complexity to guide the reasoning process. Experiments demonstrate that our method reduces token usage in CoT reasoning with minimal performance trade-offs, striking a practical balance between efficiency and accuracy.
 

@@ -2,7 +2,7 @@
 
 ## News
 [2025-05] [“Token-Budget-Aware LLM Reasoning”](https://arxiv.org/pdf/2412.18547) has been accepted to ACL 2025 (Findings)!  
-[2024-12] Selected as <font color=red>HuggingFace Daily Paper Top-1</font>!
+[2024-12] Selected as **<font color=red>HuggingFace Daily Paper Top-1</font>**!
 
 ## 🚀1. Overview
 
